@@ -4,8 +4,9 @@
 __author__ = 'Liu Huang'
 
 import unittest
+import logging
 
-from ArgParser.ArgParser import ArgParser
+from Args.ArgParser.ArgParser import ArgParser
 
 
 class TestArgsParser(unittest.TestCase):
@@ -43,4 +44,9 @@ class TestArgsParser(unittest.TestCase):
 
 
 if __name__ == '__main__':
+    logging.config.fileConfig('logging.conf')
+
+    logger = logging.getLogger(__name__)
     unittest.main()
+    print('test success')
+    logger.debug('debug message')

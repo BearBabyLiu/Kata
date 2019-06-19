@@ -3,9 +3,10 @@
 
 __author__ = 'Liu Huang'
 
-from TypeArgs.Schema import Schema
-
-
+import logging.config
+from Args.TypeArgs.Schema import Schema
+from os import path
+import os
 class ArgParser(object):
 
     def __init__(self, cmd_args, schema_args):
@@ -30,3 +31,16 @@ class ArgParser(object):
             return self.extract_schema(flag).get_default()
         else:
             return self.extract_schema(flag).extract_value(self.cmd_args.get(flag))
+
+
+if __name__ == '__main__':
+    cmd_args = {'-b': '', '-p': '8080', '-s': '/usr/logs'}
+    schema_args = '-b:bool:false,-p:int:0,-s:string:'
+    ArgParser(cmd_args, schema_args).get_flag_value('-b')
+    log_file_path = path.join(os.path.abspath(os.path.join(os.path.dirname("__file__"), os.path.pardir)), 'resource\\logging.conf')
+    print(log_file_path)
+    logging.config.fileConfig(log_file_path)
+
+    logger = logging.getLogger(__name__)
+    print('test success')
+    logger.debug('debug message')
