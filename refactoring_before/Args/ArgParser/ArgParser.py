@@ -7,6 +7,8 @@ import logging.config
 from Args.TypeArgs.Schema import Schema
 from os import path
 import os
+
+
 class ArgParser(object):
 
     def __init__(self, cmd_args, schema_args):
@@ -37,10 +39,17 @@ if __name__ == '__main__':
     cmd_args = {'-b': '', '-p': '8080', '-s': '/usr/logs'}
     schema_args = '-b:bool:false,-p:int:0,-s:string:'
     ArgParser(cmd_args, schema_args).get_flag_value('-b')
-    log_file_path = path.join(os.path.abspath(os.path.join(os.path.dirname("__file__"), os.path.pardir)), 'resource\\logging.conf')
+    log_path = r'D:\code\Kata\refactoring_before\Args\log'
+    if os.path.exists(log_path) is False:
+        os.makedirs(r'D:\code\Kata\refactoring_before\Args\log')
+
+    log_file_path = path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir)), 'resource\\logging.conf')
     print(log_file_path)
     logging.config.fileConfig(log_file_path)
+    nihao = logging.getLogger('nihao')
+    logger = logging.getLogger('simpleExample')
 
-    logger = logging.getLogger(__name__)
-    print('test success')
-    logger.debug('debug message')
+    logger.info('debug message')
+    nihao.info('nihao1')
+    nihao.info('nihao2')
+    nihao.info('nihao3')

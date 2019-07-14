@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03748f7e-4072-4150-83ba-6fe20a56f0b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../jsonfilter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonfilter/EqExpr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonfilter/Expr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonfilter/FilterExpr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonfilter/GtExpr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonfilter/JsonFilter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonfilter/JsonFilterSuite/JsonFilterSuite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonfilter/JsonParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonfilter/NeqExpr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/refactoring_before.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Args/ArgParser/ArgParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Args/ArgParser/ArgParser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Args/resource/logging.conf" beforeDir="false" afterPath="$PROJECT_DIR$/Args/resource/logging.conf" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Args/resource/logging.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Args/ArgParser/ArgParser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+              <folding>
+                <element signature="e#74#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/ProgramData/Anaconda3/Lib/logging/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#1282#1294#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Args/ArgParserSuite/ArgParserSuite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="893">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="e#74#89#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/ProgramData/Anaconda3/Lib/logging/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Args/TypeArgs/Schema.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Args/ArgParserSuite/ArgParserSuite.py" />
+        <option value="$PROJECT_DIR$/Args/resource/logging1.conf" />
+        <option value="$PROJECT_DIR$/Args/resource/logging.conf" />
+        <option value="$PROJECT_DIR$/Args/ArgParser/ArgParser.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="refactoring_before" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoring_before" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoring_before" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoring_before" type="462c0819:PsiDirectoryNode" />
+              <item name="Args" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoring_before" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoring_before" type="462c0819:PsiDirectoryNode" />
+              <item name="Args" type="462c0819:PsiDirectoryNode" />
+              <item name="ArgParser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoring_before" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoring_before" type="462c0819:PsiDirectoryNode" />
+              <item name="Args" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoring_before" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoring_before" type="462c0819:PsiDirectoryNode" />
+              <item name="Args" type="462c0819:PsiDirectoryNode" />
+              <item name="TypeArgs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jsonfilter" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ArgParser">
+    <configuration name="ArgParser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="refactoring_before" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Args/ArgParser" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Args/ArgParser/ArgParser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in ArgParserSuite.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="refactoring_before" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Args/ArgParserSuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Args/ArgParserSuite/ArgParserSuite.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ArgParser" />
+        <item itemvalue="Python tests.pytest in ArgParserSuite.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03748f7e-4072-4150-83ba-6fe20a56f0b4" name="Default Changelist" comment="" />
+      <created>1560945705890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560945705890</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_ArgParserSuite_py - 2019.06.19 at 20h 25m 17s.xml">
+      <configuration name="pytest in ArgParserSuite.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_ArgParserSuite_py - 2019.06.19 at 20h 26m 42s.xml">
+      <configuration name="pytest in ArgParserSuite.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_ArgParserSuite_py - 2019.06.19 at 20h 27m 33s.xml">
+      <configuration name="pytest in ArgParserSuite.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_ArgParserSuite_py - 2019.06.19 at 20h 27m 52s.xml">
+      <configuration name="pytest in ArgParserSuite.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_ArgParserSuite_py - 2019.07.05 at 20h 39m 00s.xml">
+      <configuration name="pytest in ArgParserSuite.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_ArgParserSuite_py - 2019.07.05 at 20h 39m 23s.xml">
+      <configuration name="pytest in ArgParserSuite.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Args/resource/logging1.conf" />
+    <entry file="file://$PROJECT_DIR$/Args/ArgParser/logging1.log" />
+    <entry file="file://$PROJECT_DIR$/Args/log/nihao.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Args/log/logging.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Args/ArgParser/logging.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Args/ArgParser/nihao.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Args/resource/logging.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/logging/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1282#1294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Args/ArgParserSuite/ArgParserSuite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#74#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Args/TypeArgs/Schema.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Args/ArgParser/ArgParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+          <folding>
+            <element signature="e#74#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
