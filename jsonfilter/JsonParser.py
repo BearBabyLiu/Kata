@@ -55,8 +55,8 @@ if __name__ == '__main__':
     data = 'nihao.eq=30'
     d_tmp = [value for key, value in type_factory.items() if key in data][0](data)
     print(d_tmp)
-
-    a = FilterExpr('nihao.eq=3&tam.fdf.eq=6').extract_single_expr
+    dic = {"color": ["red", "blue", "yellow"]}
+    a = True if "red,blue" in dic["color"] else False
     print(a)
 
 

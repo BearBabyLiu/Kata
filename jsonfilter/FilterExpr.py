@@ -6,6 +6,10 @@ __author__ = 'Liu Huang'
 from EqExpr import EqExpr
 from NeqExpr import NeqExpr
 from GtExpr import GtExpr
+from GteExpr import GteExpr
+from LteExpr import LteExpr
+from LtExpr import LtExpr
+from ContExpr import ContExpr
 
 
 class FilterExpr(object):
@@ -14,6 +18,10 @@ class FilterExpr(object):
         '.eq=': lambda x: EqExpr(x.split('.eq=')[0], x.split('.eq=')[1]),
         '.neq=': lambda x: NeqExpr(x.split('.neq=')[0], x.split('.neq=')[1]),
         '.gt=': lambda x: GtExpr(x.split('.gt=')[0], x.split('.gt=')[1]),
+        '.gte=': lambda x: GteExpr(x.split('.gte=')[0], x.split('.gte=')[1]),
+        '.lt=': lambda x: LtExpr(x.split('.lt=')[0], x.split('.lt=')[1]),
+        '.lte=': lambda x: LteExpr(x.split('.lte=')[0], x.split('.lte=')[1]),
+        '.cont=': lambda x: ContExpr(x.split('.cont=')[0], x.split('.cont=')[1]),
     }
 
     def __init__(self, expr_str):
