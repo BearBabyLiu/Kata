@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03748f7e-4072-4150-83ba-6fe20a56f0b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../jsonfilter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsonfilter/EqExpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsonfilter/Expr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsonfilter/FilterExpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsonfilter/GtExpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsonfilter/JsonFilter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsonfilter/JsonFilterSuite/JsonFilterSuite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsonfilter/JsonParser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jsonfilter/NeqExpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/refactoring_before.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Args/ArgParser/ArgParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Args/ArgParser/ArgParser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Args/resource/logging.conf" beforeDir="false" afterPath="$PROJECT_DIR$/Args/resource/logging.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FizzBuzzGame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FizzBuzzGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FizzBuzzGame/FizzBuzzGameSuite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonfilter/NcontExpr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jsonfilter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jsonfilter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refactoring_after/Args/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../refactoring_after/Args/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +21,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Args/resource/logging.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
+            <state>
               <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
             </state>
           </provider>
@@ -39,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Args/ArgParser/ArgParser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+            <state relative-caret-position="1638">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
               <folding>
                 <element signature="e#74#95#0" expanded="true" />
               </folding>
@@ -62,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Args/ArgParserSuite/ArgParserSuite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="1443">
+              <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="19" />
               <folding>
                 <element signature="e#74#89#0" expanded="true" />
               </folding>
@@ -78,6 +69,15 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Args/TypeArgs/Schema.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/fizzbuzz.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -97,10 +97,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,6 +131,12 @@
               <item name="refactoring_before" type="b2602c69:ProjectViewProjectNode" />
               <item name="refactoring_before" type="462c0819:PsiDirectoryNode" />
               <item name="Args" type="462c0819:PsiDirectoryNode" />
+              <item name="ArgParserSuite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="refactoring_before" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoring_before" type="462c0819:PsiDirectoryNode" />
+              <item name="Args" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -146,7 +152,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jsonfilter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FizzBuzzGame" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -238,10 +244,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
+    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22313432" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -281,7 +287,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Args/resource/logging.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
+        <state>
           <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
@@ -295,26 +301,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/fizzbuzz.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Args/TypeArgs/Schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Args/ArgParserSuite/ArgParserSuite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="1443">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="19" />
           <folding>
             <element signature="e#74#89#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/ProgramData/Anaconda3/Lib/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Args/TypeArgs/Schema.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Args/ArgParser/ArgParser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        <state relative-caret-position="1638">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
           <folding>
             <element signature="e#74#95#0" expanded="true" />
           </folding>

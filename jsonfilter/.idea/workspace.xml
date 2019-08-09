@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1d7f810-acd9-40e6-8ff7-f922853c3779" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContExpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GteExpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LtExpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LteExpr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FilterExpr.py" beforeDir="false" afterPath="$PROJECT_DIR$/FilterExpr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonFilterSuite/JsonFilterSuite.py" beforeDir="false" afterPath="$PROJECT_DIR$/JsonFilterSuite/JsonFilterSuite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/JsonParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NcontExpr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../refactoring_after/Args/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../refactoring_after/Args/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../refactoring_before/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../refactoring_before/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -24,17 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JsonFilterSuite/JsonFilterSuite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/ProgramData/Anaconda3/Lib/unittest/case.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="623" selection-start-line="623" selection-end-line="623" />
+            <state relative-caret-position="1026">
+              <caret line="55" column="95" lean-forward="true" selection-start-line="55" selection-start-column="95" selection-end-line="55" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -48,11 +33,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Expr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-114" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ContExpr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="190">
+              <caret line="13" column="34" lean-forward="true" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -60,35 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JsonParser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-89">
-              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JsonFilter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LtExpr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LteExpr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="-437">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -96,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FilterExpr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="199">
               <caret line="23" column="81" lean-forward="true" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
               <folding>
                 <element signature="e#74#99#0" expanded="true" />
@@ -105,11 +70,38 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JsonFilter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GtExpr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" selection-end-line="15" />
+            <state relative-caret-position="180">
+              <caret line="14" column="58" lean-forward="true" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LtExpr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NcontExpr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -134,16 +126,17 @@
         <option value="$PROJECT_DIR$/LteExpr.py" />
         <option value="$PROJECT_DIR$/FilterExpr.py" />
         <option value="$PROJECT_DIR$/JsonParser.py" />
-        <option value="$PROJECT_DIR$/ContExpr.py" />
         <option value="$PROJECT_DIR$/JsonFilterSuite/JsonFilterSuite.py" />
+        <option value="$PROJECT_DIR$/ContExpr.py" />
+        <option value="$PROJECT_DIR$/NcontExpr.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -288,9 +281,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_JsonFilterSuite_JsonFilterSuite_test_dict_is_meet_one_condition_expression_for_lt - 2019.07.14 at 21h 47m 11s.xml">
-      <configuration name="pytest for JsonFilterSuite.JsonFilterSuite.test_dict_is_meet_one_condition_expression_for_lt" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_JsonFilterSuite_JsonFilterSuite_test_dict_is_meet_one_condition_expression_for_lt - 2019.07.14 at 21h 47m 16s.xml">
       <configuration name="pytest for JsonFilterSuite.JsonFilterSuite.test_dict_is_meet_one_condition_expression_for_lt" configurationId="tests" />
     </history-entry>
@@ -318,13 +308,16 @@
     <history-entry file="pytest_for_JsonFilterSuite_JsonFilterSuite_test_dict_is_meet_one_condition_expression_for_cont - 2019.07.14 at 22h 06m 06s.xml">
       <configuration name="pytest for JsonFilterSuite.JsonFilterSuite.test_dict_is_meet_one_condition_expression_for_cont" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_JsonFilterSuite_JsonFilterSuite_test_dict_is_meet_one_condition_expression_for_cont - 2019.07.14 at 22h 07m 17s.xml">
+      <configuration name="pytest for JsonFilterSuite.JsonFilterSuite.test_dict_is_meet_one_condition_expression_for_cont" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
+    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25074628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -332,7 +325,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4201278" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4573913" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.399361" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,34 +343,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GtExpr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LteExpr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LtExpr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FilterExpr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="23" column="81" lean-forward="true" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
-          <folding>
-            <element signature="e#74#99#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -388,17 +357,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JsonFilter.py">
+    <entry file="file://$PROJECT_DIR$/JsonFilterSuite/JsonFilterSuite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JsonParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89">
-          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        <state relative-caret-position="1026">
+          <caret line="55" column="95" lean-forward="true" selection-start-line="55" selection-start-column="95" selection-end-line="55" selection-end-column="95" />
         </state>
       </provider>
     </entry>
@@ -409,17 +371,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JsonFilterSuite/JsonFilterSuite.py">
+    <entry file="file://$PROJECT_DIR$/Expr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GtExpr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+          <caret line="14" column="58" lean-forward="true" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LtExpr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ContExpr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="190">
+          <caret line="13" column="34" lean-forward="true" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NcontExpr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FilterExpr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="23" column="81" lean-forward="true" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
+          <folding>
+            <element signature="e#74#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>

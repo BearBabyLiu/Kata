@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2ff3bc-27d4-4729-91c9-08a49749fe92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../jsonfilter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jsonfilter/EqExpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jsonfilter/Expr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jsonfilter/FilterExpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jsonfilter/GtExpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jsonfilter/JsonFilter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jsonfilter/JsonFilterSuite/JsonFilterSuite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jsonfilter/JsonParser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jsonfilter/NeqExpr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../refactoring_before/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../refactoring_before/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../refactoring_before/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../refactoring_before/.idea/refactoring_before.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../refactoring_before/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../refactoring_before/Args/ArgParser/ArgParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../refactoring_before/Args/ArgParser/ArgParser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../refactoring_before/Args/resource/logging.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../../refactoring_before/Args/resource/logging.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FizzBuzzGame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FizzBuzzGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FizzBuzzGame/FizzBuzzGameSuite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jsonfilter/NcontExpr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jsonfilter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../jsonfilter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../refactoring_before/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../refactoring_before/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +17,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArgParser/ArgParser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="222">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TypeArgs/BoolType.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -39,24 +39,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SchemaProcess/Schema.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            <state relative-caret-position="459">
+              <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TypeArgs/IntType.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32" />
+            <state relative-caret-position="39">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TypeArgs/StringType.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ArgParserSuite/ArgParserSuite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="312">
+              <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
               <folding>
                 <element signature="e#74#89#0" expanded="true" />
               </folding>
@@ -116,7 +123,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ArgsParser" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,13 +154,9 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27752978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -161,39 +164,55 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ArgParser/ArgParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/TypeArgs/StringType.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArgParserSuite/ArgParserSuite.py">
+    <entry file="file://$PROJECT_DIR$/TypeArgs/IntType.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#74#89#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="39">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SchemaProcess/Schema.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        <state relative-caret-position="459">
+          <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TypeArgs/IntType.py">
+    <entry file="file://$PROJECT_DIR$/ArgParser/ArgParser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32" />
+        <state relative-caret-position="222">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TypeArgs/BoolType.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArgParserSuite/ArgParserSuite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+          <folding>
+            <element signature="e#74#89#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
